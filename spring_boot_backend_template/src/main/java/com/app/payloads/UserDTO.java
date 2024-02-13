@@ -16,3 +16,8 @@ public class UserDTO {
 	private String about;
 
 }
+
+
+//Used for Abstraction
+//When we will requires the field we will not use the POJO or Entity fields.
+//We will use the DTO

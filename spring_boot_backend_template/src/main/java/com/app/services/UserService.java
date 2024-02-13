@@ -6,7 +6,7 @@ import com.app.payloads.UserDTO;
 
 public interface UserService {
 
-   UserDTO createUser(UserDTO user);//Takes UserDTO     // returns User DTO -->for Creating User
+   UserDTO createUser(UserDTO user);//Takes UserDTO     // returns User DTO  with new new user added-->for Creating User
    
    
    

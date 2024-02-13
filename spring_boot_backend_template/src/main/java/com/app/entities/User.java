@@ -18,6 +18,8 @@ import lombok.Setter;
 @Setter
 public class User {
 
+//POJO
+// TABLE CREATION 
 	
 @Id	
 @GeneratedValue(strategy=GenerationType.AUTO)
